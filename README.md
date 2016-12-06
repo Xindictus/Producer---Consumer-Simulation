@@ -1,0 +1,2 @@
+# Producer---Consumer-Simulation
+A program simulating the communication between a number of P (producer) processes and a single C (consumer) process for K transactions. P processes read a file, choose a random line and write to the shared memory. C process reads from the shared memory, capitalizes the line and writes it back. P processes read again from the shared memory and print the message forwarded by C. Statistics measure the total of P processes who read from the shared memory the line they themselves sent.
