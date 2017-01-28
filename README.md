@@ -14,6 +14,6 @@ Type `make` to compile and create the executable.
 
 Run with `./main -N <Pprocesses> -K <transactions>`
 
--N: the number of P processes to be created
+`-N`: the number of P processes to be created
 
--K: the number of transactions between P and C.
+`-K`: the number of transactions between P and C.
