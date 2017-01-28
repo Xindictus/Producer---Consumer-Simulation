@@ -10,6 +10,7 @@ At the end of the transactions, each counter from every P process is added toget
 - - -
 Makefile is used to compile the program.
 
+#Parameters and Running
 Type `make` to compile and create the executable.
 
 Run with `./main -N <Pprocesses> -K <transactions>`
